@@ -1,0 +1,9 @@
+{
+    "server_port": 5555,
+    "max_players": 10,
+    "min_players": 3,
+    "rounds_before_vote": 2,
+    "anti_cheat_enabled": true,
+    "word_list_file": "words.txt",
+    "debug_mode": true
+}
